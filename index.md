@@ -1,6 +1,5 @@
 title: 述职报告
 speaker: he
-plugins: - echarts
 
 <slide class="bg-black-blue aligncenter" image="https://cn.bing.com/az/hprichbg/rb/RainierDawn_EN-AU3730494945_1920x1080.jpg .dark">
 
